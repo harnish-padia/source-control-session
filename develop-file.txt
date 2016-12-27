@@ -1,3 +1,5 @@
 This is a file created in develop branch.
 
 Changed line of code for bug fix
+
+Function added for new feature
